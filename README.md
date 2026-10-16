@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andres-sc-dev"><img src="./linkedin.svg" alt="LinkedIn" width="44"></a>&nbsp;&nbsp;
-  <a href="mailto:andres.sc.dev@gmail.com"><img src="./email.svg" alt="Email" width="44"></a>
+  <a href="mailto:andres.sc.dev@gmail.com"><img src="./email.svg" alt="Email" width="44"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/ansaca21"><img src="./instagram.svg" alt="Instagram" width="44"></a>&nbsp;&nbsp;
 </p>
 
