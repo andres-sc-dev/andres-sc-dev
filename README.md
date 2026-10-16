@@ -13,6 +13,7 @@
 ## STACK
 
 | | |
+|---|---|
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=339933) ![Java](https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=white) |
 | **Frontend y móvil** | ![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E) ![React Native](https://img.shields.io/badge/React_Native-0F172A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-0F172A?style=flat-square&logo=expo&logoColor=white) |
 | **Datos** | ![SQL Server](https://img.shields.io/badge/SQL_Server-0F172A?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927) |
