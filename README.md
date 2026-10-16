@@ -1,16 +1,16 @@
-## Hi there 👋
+# Andrés Salazar Castrillon
 
-<!--
-**andres-sc-dev/andres-sc-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack Junior en Medellín, Colombia.
+Estudiante de Ingeniería de Software en el Tecnológico de Antioquia IU.
 
-Here are some ideas to get you started:
+## Stack
+Java · JavaScript · React · Node.js · SQL Server · Git y GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+- **EnglishClassBookings**: app móvil de reservas de clases de inglés (React Native + Expo).
+
+## Base en redes y seguridad
+Cisco Networking Academy: Networking Basics e Introduction to Cybersecurity.
+
+## Contacto
+andres.sc.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/andres-sc-dev)
